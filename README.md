@@ -23,7 +23,6 @@ I enjoy learning new technologies, developing projects, and improving my problem
 
 **Languages**
 
-* Java
 * JavaScript
 * Python
 * SQL
@@ -35,12 +34,9 @@ I enjoy learning new technologies, developing projects, and improving my problem
 * JavaScript
 * React.js
 
-**Backend & Database**
+**Database**
 
-* Node.js
-* Express.js
 * MySQL
-* MongoDB
 
 **Tools**
 
@@ -79,8 +75,8 @@ A computer vision project using CNN-based techniques to estimate the number of p
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Add your LinkedIn profile]
-* 📧 Email: [Add your email]
+* 💼 LinkedIn: [www.linkedin.com/in/izhan-kashif-siddiqui-0621483ab]
+* 📧 Email: [izhansid123@gmail.com]
 * 🐙 GitHub: [@izhansid](https://github.com/izhansid)
 
 ---
